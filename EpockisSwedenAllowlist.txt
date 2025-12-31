@@ -1,0 +1,73 @@
+@@||bankid.se^
+@@||app.bankid.com^
+@@||api.bankid.se^
+@@||mobile.bankid.se^
+@@||ocsp.bankid.se^
+@@||auth.bankid.se^
+@@||swish.se^
+@@||getswish.se^
+@@||swish.nu^
+@@||vipps.no^   # often used for Swedish payments via Vipps systems
+@@||klarna.com^
+@@||klarna.net^
+@@||klarna.se^
+@@||nets.eu^
+@@||nets-group.com^
+@@||nets.se^
+@@||trustly.com^
+@@||trustlygroup.com^
+@@||seb.se^
+@@||sebgroup.com^
+@@||sebbank.lv^
+@@||handelsbanken.se^
+@@||shb.se^
+@@||swedbank.se^
+@@||swedbank.com^
+@@||nordea.se^
+@@||nordea.com^
+@@||investmentbanken.se^  # Handelsbankens investment brand
+@@||sparbanken.se^
+@@||lansforsakringar.se^
+@@||skaraborgslanstrafik.se^
+@@||skatteverket.se^
+@@||forsakringskassan.se^
+@@||transportstyrelsen.se^
+@@||1177.se^
+@@||polisen.se^
+@@||arbetsformedlingen.se^
+@@||skolinspektionen.se^
+@@||verksamt.se^
+@@||tullverket.se^
+@@||universitetsogymnasieantagningen.se^  # university admissions
+@@||elegnamnden.se^
+@@||kammarkollegiet.se^
+@@||myndighetsposten.se^
+@@||postnord.com^
+@@||postnord.se^
+@@||telia.se^
+@@||tele2.se^
+@@||tre.se^
+@@||varej.se^       # Tele2-related backend
+@@||comviq.se^
+@@||spotify.com^   # Swedish major service
+@@||spotifycdn.com^
+@@||spotifystatic.com^
+@@||youtube.com^   # Needed for embeds on gov sites
+@@||googlevideo.com^
+@@||cloudflare.com^  # CDN endpoints for many services
+@@||cloudflare.net^
+@@||akamaitechnologies.com^   # CDN for banks/sites
+@@||akamaiedge.net^
+@@||fastly.net^   # CDN for Klarna, gov sites
+@@||digicert.com^
+@@||letsencrypt.org^
+@@||apple.com^   # Apple sign-in for BankID
+@@||appleid.apple.com^
+@@||firebaseapp.com^
+@@||microsoft.com^
+@@||login.microsoftonline.com^
+@@||facebook.com^   # Some service logins/links
+@@||instagram.com^
+@@||twitter.com^   # Public info channels
+@@||bankid^			# Should allow everything with bankid
+@@||bank-id^		# Should allow everything with bank-id
